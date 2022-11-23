@@ -23,7 +23,7 @@ To stop the container, use the `docker-compose stop` script.
 Log in on the database with your credentials:
 
 - User: `sa`
-- Password: `Docker.SQL.Server.2017` (default)
+- Password: `DockerMSSQL2017` (default)
 
 ## License
 
